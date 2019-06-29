@@ -1,2 +1,0 @@
-# paper
-Created with CodeSandbox
